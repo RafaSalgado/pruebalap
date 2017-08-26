@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def quien
-    render html: "soy tu abuela"
+    render html: "soy rafael"
   end
 end
